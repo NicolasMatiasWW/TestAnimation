@@ -26,7 +26,8 @@
                 "stepConfig": {
                     "timingFunction": "kony.anim.EASE"
                 },
-                "width": "2dp"
+                "width": "2dp",
+                "right": "54dp"
             },
             "config": {
                 "delay": "0",
